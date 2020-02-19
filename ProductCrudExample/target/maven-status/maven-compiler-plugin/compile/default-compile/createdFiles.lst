@@ -1,0 +1,6 @@
+com\example\crud\ProductService.class
+com\example\crud\SpringSecurityConfig.class
+com\example\crud\AppMain.class
+com\example\crud\ProductRepository.class
+com\example\crud\Product.class
+com\example\crud\AppController.class
